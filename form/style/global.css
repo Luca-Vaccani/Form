@@ -1,0 +1,42 @@
+.label
+{
+    font-family: sans-serif;
+    color:red;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    float:left;
+    width:1fr;
+    
+}
+
+.formbox
+{
+    font-family: sans-serif;
+    color:aqua;
+    border: 2px solid grey;
+    border-radius: 4px;
+    padding:10px 10px 10px 10px;
+    margin:10px;
+    width:2fr;
+    margin-left: 200px;
+    position:static;
+}
+
+formbox2
+{
+    
+    font-family: sans-serif;
+    color:green;
+    border: 2px solid grey;
+    border-radius: 4px;
+    padding:10px;
+    margin:10px;
+    float:left;
+}
+
+.row
+{
+    width:100%;
+    display:inline;
+    padding:50px;
+}
